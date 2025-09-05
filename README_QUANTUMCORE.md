@@ -1,6 +1,6 @@
 # QuantumCore Systems Showcase
 
-> Curated portfolio of symbolic, AI-powered, and simulation-based systems developed by Pedro Paulo Lopes de Santanna (BRAKJATE PARVATURE.001).
+> Curated portfolio of symbolic, AI-powered, and simulation-based systems developed by Pedro Paulo Lopes de Santanna.
 > Below is a sample of the 30+ systems created. More available on request.
 
 ---
